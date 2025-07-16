@@ -7,19 +7,18 @@
 ---
 
 ## 🧠 About Me
-
-- 🔭 I’m currently working on: `ALX Projects` & building scalable apps
-- 🌱 I’m currently learning: **DevOps, Django REST, Next.js, and DB optimization**
-- 💬 Ask me about: Python | SQL | Git | Django | MySQL
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-link/) | [Portfolio](https://your-portfolio.com)
-- ⚡ Fun fact: I love exploring city maps and UI design aesthetics.
+ 
+-  I’m currently learning: **DevOps, Laravel, React, Database Optimization**  
+-  Ask me about: Python | SQL | Git | Laravel | PHP | Django  
+-  How to reach me: [LinkedIn](https://www.linkedin.com/in/Aymane-Guelbaoui/)   
+-  Fun fact: I love exploring city maps and UI design aesthetics.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,postgresql,react,nextjs,ts,tailwind,linux,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,laravel,php,mysql,react" />
 </p>
 
 ---
@@ -37,31 +36,20 @@
 
 ---
 
-## 🧩 Projects Showcase
+## Projects Showcase
 
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🏡 **ALX Airbnb Clone** | REST API for listing, booking, and messaging | Django, DRF, MySQL |
 | 📦 **Python Generator + DB Streaming** | Efficient DB data streaming with generators | Python, SQL |
-| 🌐 **Next.js Airbnb UI Clone** | Frontend clone using Tailwind & Next.js | Next.js, TypeScript |
-
----
-
-## ✨ Aesthetic Additions
-
-| Section | Suggestion |
-|--------|-------------|
-| Hero Banner | Add a wide image like a skyline, laptop setup, or workspace |
-| Custom Widgets | Embed GitHub trophies: `https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula` |
-| Gifs / Animations | Use relevant gifs via `![Alt Text](url.gif)` |
-| Quote | Add a favorite dev quote in italics or a blockquote |
+| 🌐 **ALX Laravel Booking App** | Fullstack Laravel-based booking system | Laravel, MySQL, Bootstrap |
+| 🎨 **Next.js Airbnb UI Clone** | Frontend clone using Tailwind & Next.js | React, Next.js, TypeScript |
 
 ---
 
 ## 📬 Let's Connect!
 
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:aymaneguelbaoui@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Aymane-Guelbaoui"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
