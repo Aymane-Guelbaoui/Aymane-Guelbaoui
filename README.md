@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Aymane Guelbaoui</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-stack+Developer;ALX+Software+Engineering+Student;Passionate+about+Clean+Architecture;Lover+of+Open+Source+%F0%9F%90%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-stack+Developer;Software+Engineering+Student;Passionate+about+Clean+Architecture;Lover+of+Open+Source+%F0%9F%90%8D" alt="Typing SVG" />
 </p>
 
 ---
