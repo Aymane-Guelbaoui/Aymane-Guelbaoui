@@ -23,18 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_title=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=transparent" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact" />
-</p>
-
----
 
 ## Projects Showcase
 
