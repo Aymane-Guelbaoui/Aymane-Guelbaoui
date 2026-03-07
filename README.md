@@ -1,40 +1,28 @@
-<h1 align="center">Hi there 👋, I'm Aymane Guelbaoui</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-stack+Developer;Software+Engineering+Student;Passionate+about+Clean+Architecture" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,000000&height=300&section=header&text=AYMANE%20GUELBAOUI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Software+Engineering+Student;Passionate+about+Clean+Architecture"/>
 
-## 🧠 About Me
+</div>
+
+## ✦ About Me
  
--  I’m currently learning: **DevOps, Laravel, React, Database Optimization**  
--  Ask me about: Python | SQL | Git | Laravel | PHP | Django  
+-  I’m currently learning: **Laravel, React, Database Optimization**  
+-  Ask me about: JavaScript |Python | SQL | Git | Laravel | PHP | Django  
 -  How to reach me: [LinkedIn](https://www.linkedin.com/in/Aymane-Guelbaoui/)   
 
 ---
 
-## Tech Stack
+## ✦ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,laravel,php,mysql,react" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,php,laravel,mysql,python,django," />
 </p>
 
 ---
 
-
-## Projects Showcase
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🏡 **ALX Airbnb Clone** | REST API for listing, booking, and messaging | Django, DRF, MySQL |
-| 📦 **Python Generator + DB Streaming** | Efficient DB data streaming with generators | Python, SQL |
-| 🌐 **ALX Laravel Booking App** | Fullstack Laravel-based booking system | Laravel, MySQL, Bootstrap |
-| 🎨 **Next.js Airbnb UI Clone** | Frontend clone using Tailwind & Next.js | React, Next.js, TypeScript |
-
----
-
-## 📬 Let's Connect!
+## ✦ Let's Connect!
 
 <p align="center">
   <a href="mailto:aymaneguelbaoui@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
